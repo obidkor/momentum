@@ -1,7 +1,8 @@
 # Javascript로 크롬 생산성 앱 만들기!
 크롬생산성앱 만들기! 자바스크립트만 쓰기
 <hr>
-## 구현
+
+## 기능
 
 ### 1.할일목록 (To Do List) & 이름 기록
 todo.js ==> 브라우저 Local Storage이용
