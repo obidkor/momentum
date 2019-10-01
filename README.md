@@ -5,7 +5,7 @@
 ## 기능
 
 ### 1.할일목록 (To Do List) & 이름 기록
-todo.js ==> 브라우저 Local Storage이용
+todo.js, greeting.js ==> 브라우저 Local Storage이용
 ![ex_screenshot](./images/결과1.png)
 
 ### 2.시계 기능
