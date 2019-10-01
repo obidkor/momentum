@@ -6,7 +6,7 @@
 
 ### 1.할일목록 (To Do List) & 이름 기록
 todo.js ==> 브라우저 Local Storage이용
-![ex_screenshot](./image/결과1.png)
+![ex_screenshot](./images/결과1.png)
 
 ### 2.시계 기능
 clock.js ==> date에 정규표현식 사용
@@ -18,4 +18,4 @@ weather.js ==> Ajax로 openweather API 사용
 
 ## 실행
 
-![ex_screenshot](./image/결과1.png)
+![ex_screenshot](./images/결과2.png)
