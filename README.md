@@ -19,3 +19,5 @@ weather.js ==> Ajax로 openweather API 사용
 ## 실행
 
 ![ex_screenshot](./images/결과2.png)
+
+deploy : https://obidkor.github.io/momentum/
