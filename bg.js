@@ -7,7 +7,7 @@ function handleImgLoad(){
 
 function printImage(imgNum){
     const img = new Image();
-    img.src = `/images/${imgNum+1}.jpg`
+    img.src = `https://github.com/obidkor/momentum/blob/master/images/${imgNum+1}.jpg?raw=true`
     img.classList.add("bgImg")
     body.prepend(img);
     
